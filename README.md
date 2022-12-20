@@ -1,1 +1,3 @@
 # DockerTestAngular
+
+docker-compose up
